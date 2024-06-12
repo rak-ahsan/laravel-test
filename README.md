@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/raduancse/mediusware_exam.git
+git clone https://github.com/rak-ahsan/laravel-test
 cd mediusware_exam
 Install dependencies:
 
