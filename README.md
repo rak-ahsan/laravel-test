@@ -47,4 +47,4 @@ Copy code
 php artisan serve
 API Endpoints
 User Management
-Create a new user:
+Create a new user
